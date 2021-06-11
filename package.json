@@ -1,0 +1,24 @@
+{
+	"name": "simondice",
+	"version": "1.0.0",
+	"description": "Actividad práctica de r/argentina programa",
+	"main": "index.html",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Julian Grosso",
+	"license": "ISC",
+	"dependencies": {
+		"@popperjs/core": "^2.9.2",
+		"bootstrap": "^5.0.1"
+	},
+	"devDependencies": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JulianGrosso/Simon-Dice.git"
+	},
+	"bugs": {
+		"url": "https://github.com/JulianGrosso/Simon-Dice/issues"
+	},
+	"homepage": "https://github.com/JulianGrosso/Simon-Dice#readme"
+}
